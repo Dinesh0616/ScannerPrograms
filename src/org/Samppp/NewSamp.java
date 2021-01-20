@@ -9,6 +9,10 @@ public class NewSamp {
 		String s1 = "Iphone";
 		System.out.println(s1);
 		
+		System.out.println("Gggggggggggg");
+		
+		
+		
 		
 		
 
