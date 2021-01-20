@@ -11,7 +11,11 @@ public class NewSamp {
 		
 		System.out.println("Gggggggggggg");
 		
+		String s3 =  "Salman";
+		System.out.println(s3);
 		
+		
+
 		
 		
 		
