@@ -14,6 +14,8 @@ public class NewSamp {
 		String s3 =  "Salman";
 		System.out.println(s3);
 		
+		System.out.println("DDDDDDDDDDD");
+		
 		
 
 		
