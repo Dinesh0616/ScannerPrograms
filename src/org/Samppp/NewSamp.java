@@ -6,10 +6,11 @@ public class NewSamp {
 
 		System.out.println("Dinesh");
 		
-		String s1 = "Iphone";
-		System.out.println(s1);
+		String s  = "Thusday";
 		
-		System.out.println("Gggggggggggg");
+		String s1 = " Date : 21-01-21";
+		
+		System.out.print(s + s1);
 		
 		
 		
