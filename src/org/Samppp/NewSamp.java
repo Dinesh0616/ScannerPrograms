@@ -13,6 +13,9 @@ public class NewSamp {
 		System.out.print(s + s1);
 		
 		
+		System.out.println("Day one ");
+		
+		
 		
 		
 		
