@@ -14,6 +14,7 @@ public class NewSamp {
 		
 		
 		System.out.println("Day one ");
+		System.out.println("Dayyyyyyyy");
 		
 		
 		
